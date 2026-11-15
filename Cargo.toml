@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos-archlinux-tweak-tool"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_archlinux_tweak_tool"
+path = "src/lib.rs"
