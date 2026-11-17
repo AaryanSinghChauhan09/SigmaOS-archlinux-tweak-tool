@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-tweak-tool"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-tweak-tool component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
