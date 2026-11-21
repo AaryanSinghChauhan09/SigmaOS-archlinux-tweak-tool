@@ -178,3 +178,6 @@ mod tests {
         assert_eq!(mgr.set_enabled("none", true), Err(ArchlinuxTweakToolError::NotFound("none".to_string())));
     }
 }
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod common_tweaks;
